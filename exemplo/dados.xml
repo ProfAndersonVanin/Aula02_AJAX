@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+	<cliente>
+		<nome>ANDERSON</nome>
+		<idade>47</idade>
+	</cliente>
+	<cliente>
+		<nome>ZEZINHO</nome>
+		<idade>25</idade>
+	</cliente>
+	<cliente>
+		<nome>MARIA</nome>
+		<idade>50</idade>
+	</cliente>
+	<cliente>
+		<nome>FULANO</nome>
+		<idade>16</idade>
+	</cliente>
+</lista>
